@@ -1,0 +1,332 @@
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.exe
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.deps.json
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.runtimeconfig.json
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.runtimeconfig.dev.json
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.pdb
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csprojAssemblyReference.cache
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.AssemblyInfoInputs.cache
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.AssemblyInfo.cs
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csproj.CoreCompileInputs.cache
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csproj.CopyComplete
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.pdb
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.genruntimeconfig.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.exe
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.deps.json
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.runtimeconfig.json
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.runtimeconfig.dev.json
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csprojAssemblyReference.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.AssemblyInfoInputs.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.AssemblyInfo.cs
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csproj.CoreCompileInputs.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csproj.CopyComplete
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.genruntimeconfig.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.exe
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.deps.json
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.runtimeconfig.json
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.runtimeconfig.dev.json
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csprojAssemblyReference.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.AssemblyInfoInputs.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.AssemblyInfo.cs
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csproj.CoreCompileInputs.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csproj.CopyComplete
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.genruntimeconfig.cache
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.exe
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.deps.json
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.runtimeconfig.json
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.runtimeconfig.dev.json
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Migreer2DB.pdb
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csprojAssemblyReference.cache
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.AssemblyInfoInputs.cache
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.AssemblyInfo.cs
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csproj.CoreCompileInputs.cache
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.csproj.CopyComplete
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.pdb
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Migreer2DB\obj\Debug\netcoreapp3.1\Migreer2DB.genruntimeconfig.cache

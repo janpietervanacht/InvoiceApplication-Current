@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceExportFileModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HeaderRecord>
+    <FileName>FactuurFile Uitgaand 20201009-160201.txt</FileName>
+    <DateTimeExported>20201009-160201</DateTimeExported>
+  </HeaderRecord>
+  <InvoiceList>
+    <OutgoingInvoice>
+      <FactuurNummer>1001</FactuurNummer>
+      <KlantNummer>100001</KlantNummer>
+      <VolledigeNaamClient>Jan-Pieter Van Agt</VolledigeNaamClient>
+      <Bedrag>200.04</Bedrag>
+      <FactuurDatum>2020-10-09</FactuurDatum>
+      <VervalDatum>0001-01-01</VervalDatum>
+    </OutgoingInvoice>
+    <OutgoingInvoice>
+      <FactuurNummer>1002</FactuurNummer>
+      <KlantNummer>100002</KlantNummer>
+      <VolledigeNaamClient>Peter Moors</VolledigeNaamClient>
+      <Bedrag>900.23</Bedrag>
+      <FactuurDatum>2020-10-09</FactuurDatum>
+      <VervalDatum>0001-01-01</VervalDatum>
+    </OutgoingInvoice>
+    <OutgoingInvoice>
+      <FactuurNummer>1003</FactuurNummer>
+      <KlantNummer>100002</KlantNummer>
+      <VolledigeNaamClient>Peter Moors</VolledigeNaamClient>
+      <Bedrag>900.23</Bedrag>
+      <FactuurDatum>2020-10-09</FactuurDatum>
+      <VervalDatum>0001-01-01</VervalDatum>
+    </OutgoingInvoice>
+    <OutgoingInvoice>
+      <FactuurNummer>1008</FactuurNummer>
+      <KlantNummer>100002</KlantNummer>
+      <VolledigeNaamClient>Peter Moors</VolledigeNaamClient>
+      <Bedrag>900.23</Bedrag>
+      <FactuurDatum>2020-10-09</FactuurDatum>
+      <VervalDatum>0001-01-01</VervalDatum>
+    </OutgoingInvoice>
+  </InvoiceList>
+  <FooterRecord>
+    <NrofRecords>4</NrofRecords>
+  </FooterRecord>
+</InvoiceExportFileModel>

@@ -1,0 +1,56 @@
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\janpi\OneDrive\data Infinite Mission\@omscholing ontwikkelaar\InvoiceApplication2020\InvoiceApplication\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplicationMVC Current\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\janpi\source\repos\InvoiceApplication\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\Business\obj\Debug\netcoreapp3.1\Business.pdb

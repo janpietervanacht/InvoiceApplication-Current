@@ -1,0 +1,78 @@
+﻿@model InvoiceMVC.ViewModels.InvoiceIndexVM
+
+
+@if (@Model.ClientNumber == 0)
+{
+    <h3>Lijst van facturen voor alle klanten</h3>
+}
+else
+{
+    <h3>Lijst van facturen voor klant @Model.ClientNumber: @Model.ClientFullName</h3>
+}
+<h3>Aantal facturen: @Model.NrOfItems</h3>
+ 
+<br />
+
+<table class="table table-condensed table-hover">
+
+    <tr>
+        <th>
+            @Html.DisplayName("Check export")
+        </th>
+        <th>
+            @Html.DisplayName("Factuurnummer")
+        </th>
+        <th>
+            @Html.DisplayName("Factuurdatum")
+        </th>
+
+        <th>
+            @Html.DisplayName("Factuurbedrag")
+
+        <th>
+            @Html.DisplayName("Vervaldatum")
+        </th>
+
+    </tr>
+
+    @foreach (var inv in @Model.ListOfItems)
+    {
+        <tr>
+
+            <td>
+                <!-- check for export: checkbox veld per rij-->
+                @Html.CheckBoxFor(incomingVM => inv.ToBeExported)
+            </td>
+
+            <td>
+                @Html.DisplayFor(incomingVM => inv.Invoice.InvoiceNumber)
+            </td>
+            <td>
+                <!-- Door een string te gebruiken tonen we volledig Nederlands formaat voor de invoice datum: -->
+                @Html.DisplayFor(incomingVM => inv.InvoiceDateAsString)
+            </td>
+            <td>
+                @Html.DisplayFor(incomingVM => inv.Invoice.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(incomingVM => inv.Invoice.DueDate) <!-- om didactische redenen toch als DateTime veld -->
+            </td>
+
+            <!--<td>-->
+            <!-- onderstaande werkt, maar underline in knop is niet mooi -->
+            <!-- De naam "clientId" moet exact overeenkomen met de parameter van de ActionResult Method Details -->
+            <!--<button class="clickButtonJP">
+                    @Html.ActionLink("Details factuur", "Details", new { invoiceId = inv.Invoice.Id })
+                </button>
+            </td> -->
+
+        </tr>
+    }
+
+</table>
+
+<br />
+<br />
+<!-- Maak een back to menu knop -->
+<partial name="_BackToMainMenuPartial" />
+

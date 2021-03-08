@@ -1,0 +1,12 @@
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\bin\Debug\netcoreapp3.1\TestFactory.deps.json
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\bin\Debug\netcoreapp3.1\TestFactory.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\bin\Debug\netcoreapp3.1\TestFactory.pdb
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.csprojAssemblyReference.cache
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.AssemblyInfoInputs.cache
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.AssemblyInfo.cs
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.csproj.CoreCompileInputs.cache
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.csproj.CopyComplete
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.dll
+C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.pdb

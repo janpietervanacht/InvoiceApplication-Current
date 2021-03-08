@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+ <!-- 
+
+// Voor Nlog(): installeer de volgende NuGetPackages:
+        Nlog.Appsettings.Standard
+        Nlog.Web.AspNetCore
+        System.Data.SqlClient  NIET VERGETEN bij logging naar tabel
+		Nlog.WindowsEventLog NIET VERGETEN bij logging naar Windows Event Viewer
+
+		ATTENTIE: Als logging niet werkt, en toch geen execption:
+		
+        Als de logging niet werkt (programma doet het, geen exception
+        maar de log-tabel in Event Viewer wordt niet gevuld)
+        Kijk dan in de interne-logging van NLog zie internalLogFile hieronder
+-->
+
+<!-- Onderstaande = Windows Event Viewer Logging -->
+
+
+<nlog xmlns="http://www.nlog-project.org/schemas/NLog.xsd"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      autoReload="true"
+      throwConfigExceptions="true"
+      internalLogLevel="info"
+      internalLogFile="c:\temp\internal-nlog-WebAPIForClient.txt">  <!-- HIERIN KIJKEN ALS LOGGING NIETS WEGSCHRIJFT -->
+	<!-- ________________________________________________________  -->
+	<extensions>
+		<add assembly="NLog.Web.AspNetCore"/>
+		<add assembly="Nlog.WindowsEventLog" />   <!-- windows event log -->
+	</extensions>
+
+	<targets>
+
+		<!-- Enige target = logging Windows Event Log -->
+		
+		<!-- 1. Power Shell opstarten vanuit windows start button -->
+		<!-- of vanuit vergrootglas linksonder  -->
+		<!-- rechter muis: run Powershell as administrator -->
+
+		<!-- 2. Creëer een EventLog met source=WebAPIForClient op in Windows PowerShell: tik in:    -->
+		<!-- C:\...\....>   New-EventLog -LogName Application -Source WebAPIForClient           -->
+
+		<!-- 3. Draai je applicatie, nu wordt er gelogd naar Windows Event Viewer -->
+		
+		<!-- 4. Start Event Viewer en bekijk de resultaten  -->
+		<!-- 4a. Kijk in de explorer aan de linkerkant van Event Viewer:  Windows Logs -> Application doe hier een REFRESH -->
+		<!-- 4b. Sorteer de Date en Time in descending volgorde, om zo de meest recente log entries te zien -->
+
+		<target xsi:type="EventLog"
+			   name="eventLog"
+			   eventid="1000"
+			   source="WebAPIForClient"
+			   layout="${message}${newline}${exception:format=ToString}" Log="Application" machinename=".">
+		</target>
+	</targets>
+
+	<rules>
+		<logger name="*" minlevel ="Debug" writeTo="eventLog" />
+	</rules>
+</nlog>
+ 

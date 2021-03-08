@@ -1,0 +1,46 @@
+﻿@model InvoiceMVC.ViewModels.ClientVM
+
+
+<h3>Aanmaken nieuwe klant</h3>
+<partial name="_ClockPartial" for="@Model.KlokVM" />
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div>
+    <!-- De Summary box toont geen foutboodschappen op property level in de Summary box-->
+    <!-- Maw de foutboodschappen vanuit Data Annotations komen bij de velden zelf -->
+    <!-- Maw: eerste parameter van ValidationSummary: excludePropertyErrors = true -->
+    <!-- Als ModelState.IsValid dan vervolgen we met de complexere custom made error messages -->
+    <!-- Zoals bijvoorbeeld een check op een reguliere expressie, of een database integriteits-check -->
+    <!-- Alleen complexe, expliciet gecodeerde foutboodschappen tonen we in de ValidationSummary -->
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    @Html.HiddenFor(c => c.Client.ActionCode)
+
+    <!-- Als de shared view niet direct onder een standaard View folder staat -->
+    <!-- Bijvoorbeeld "Client" "Invoice" of "Shared" -->
+    <!-- Gebruik dan onderstaande syntax -->
+    <partial name="GedeeldeViewsClient/_ClientFieldsPartial" for="@Model" />
+
+    <br />
+    <div>
+        <input type="submit" value="Creëer client" />
+    </div>
+
+    <br />
+    <br />
+    <!-- Maak een back to clienten-lijst knop-->
+    <partial name="GedeeldeViewsClient/_BackToClientIndexView.cshtml" />
+
+    <br />
+    <br />
+    <!-- Maak een back to menu knop, kan met of zonder .cshtml extensie-->
+    <partial name="_BackToMainMenuPartial" />
+
+
+</div>
+}
+

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- De volgende sectie is de logging van NLog zelf (internal logging) -->
+
+<!-- Zet in properties de config file op COPY IF NEWER -->
+<!-- Dan wordt in de uiteindelijke bin-package de meest recente config file gezet -->
+<!-- 
+
+  Voor Nlog(): installeer de volgende 4 NuGetPackages:
+        Nlog.Appsettings.Standard
+        Nlog.Web.AspNetCore
+        System.Data.SqlClient  NIET VERGETEN
+		Nlog.WindowsEventLog NIET VERGETEN bij logging naar Windows Event Viewer
+
+        ATTENTIE: Als de logging niet werkt (programma doet het, geen exception
+        maar geen log entries weggeschreven)
+        Kijk dan in de interne-logging van NLog zie internalLogFile hieronder
+-->
+
+
+<nlog xmlns="http://www.nlog-project.org/schemas/NLog.xsd"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      autoReload="true"
+      throwConfigExceptions="true"
+      internalLogLevel="info"
+      internalLogFile="c:\temp\internal-nlog-WebAPIForClient.txt">  <!-- HIERIN KIJKEN ALS LOGGING NIET WERKT-->
+	<!-- ________________________________________________________  -->
+	<extensions>
+		<add assembly="NLog.Web.AspNetCore"/>
+		<!-- windows event log -->
+	</extensions>
+
+	<!-- Haal informatie uit appsettings.json -->
+	<targets>
+
+		<!-- Enige target = logging naar een database-tabel -->
+		<!-- Logging vindt plaats in een andere database
+		  dan waar de gewone tabellen in staan -->
+		<!-- Zie de appsettings: ConnectionStrings.LoggingConnection-->
+		
+		<!-- Log alle messages in die andere database,in tabel "dbo.LogApiMessages" -->
+		<target name="logApiMessagesTarget" xsi:type="Database"
+	 connectionString="${appsettings:name=ConnectionStrings.LoggingConnection}"
+    >
+			<commandText>
+				insert into dbo.LogApiMessages (
+				Application, Logged, Level, Message,
+				Logger, CallSite, Exception
+				) values (
+				@Application, @Logged, @Level, @Message,
+				@Logger, @Callsite, @Exception
+				);
+			</commandText>
+			<parameter name="@application" layout="WebApiForClient" />
+			<parameter name="@logged" layout="${date}" />
+			<parameter name="@level" layout="${level}" />
+			<parameter name="@message" layout="${message}" />
+			<parameter name="@logger" layout="${logger}" />
+			<parameter name="@callSite" layout="${callsite:filename=true}" />
+			<parameter name="@exception" layout="${exception:tostring}" />
+		</target>
+
+
+	</targets>
+
+	<rules>
+		<logger name="*" level ="Error" writeTo="logApiMessagesTarget" />
+		<logger name="*" level ="Warning" writeTo="logApiMessagesTarget" />
+		<logger name="*" level ="Info" writeTo="logApiMessagesTarget" />
+		<logger name="*" level ="Debug" writeTo="logApiMessagesTarget" />
+	</rules>
+</nlog>
+ 

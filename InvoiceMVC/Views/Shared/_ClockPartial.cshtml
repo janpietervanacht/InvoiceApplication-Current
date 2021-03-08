@@ -1,0 +1,18 @@
+﻿@*@model KlokVM
+
+@using (Html.BeginForm("VerversKlok", "Client", FormMethod.Post))
+{
+<div>
+    <br />
+    <p style="font-size: 20px; color: #ff6a00" ; font-style: italic">Datum/tijd: @Model.KlokTijd</p>
+    &nbsp; &nbsp;
+
+<br />
+<br />
+<button>
+    @Html.ActionLink("Ververs de klok", "VerversKlok", "Client")
+</button>
+
+</div>
+    <br />
+}*@

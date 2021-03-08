@@ -1,0 +1,48 @@
+﻿@model InvoiceMVC.ViewModels.ClientVM
+
+
+<h3>Details voor klant "@Model.ClientFullName"</h3>
+
+<partial name="_ClockPartial" for="@Model.KlokVM" />
+
+<fieldset disabled>
+    <legend style="font-style: italic">Details:</legend>
+
+    <div class="form-group">
+        @Html.LabelFor(c => c.Client.ActionCode, htmlAttributes: new { @class = "label-for-JP" })
+        @Html.EditorFor(c => c.Client.ActionCode, new { htmlAttributes = new { @class = "editor-for-JP" } })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(c => c.ClientFullName, htmlAttributes: new { @class = "label-for-JP" })
+        @Html.EditorFor(c => c.ClientFullName, new { htmlAttributes = new { @class = "editor-for-JP" } })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(c => c.Client.ClientNumber, htmlAttributes: new { @class = "label-for-JP" })
+        @Html.EditorFor(c => c.Client.ClientNumber, new { htmlAttributes = new { @class = "editor-for-JP" } })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(c => c.NumberOfInvoices, htmlAttributes: new { @class = "label-for-JP" })
+        @Html.EditorFor(c => c.NumberOfInvoices, new { htmlAttributes = new { @class = "editor-for-JP" } })
+    </div>
+
+    <!-- Als de shared view niet direct onder een standaard View folder staat -->
+    <!-- Bijvoorbeeld "Client" "Invoice" of "Shared" -->
+    <!-- Gebruik dan onderstaande syntax  -->
+    <partial name="GedeeldeViewsClient/_ClientFieldsPartial" for="@Model" />
+
+</fieldset>
+
+<br />
+<br />
+<!-- Maak een back to clienten-lijst knop-->
+<partial name="GedeeldeViewsClient/_BackToClientIndexView.cshtml" />
+
+<br />
+<br />
+<!-- Maak een back to menu knop, kan met of zonder .cshtml extensie-->
+<partial name="_BackToMainMenuPartial" />
+
+<br />

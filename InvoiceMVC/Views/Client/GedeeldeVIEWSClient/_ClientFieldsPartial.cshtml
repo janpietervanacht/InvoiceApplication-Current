@@ -1,0 +1,70 @@
+﻿@model InvoiceMVC.ViewModels.ClientVM
+<!-- alles hieronder is geschikt voor details, create, update, delete-->
+
+<div class="form-group">
+    @Html.LabelFor(c => c.Client.FirstName, htmlAttributes: new { @class = "label-for-JP" })
+    @Html.EditorFor(c => c.Client.FirstName, new { htmlAttributes = new { @class = "editor-for-JP" } })
+    @Html.ValidationMessageFor(c => c.Client.FirstName, "", new { @class = "text-danger" })
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(c => c.Client.LastName, htmlAttributes: new { @class = "label-for-JP" })
+    @Html.EditorFor(c => c.Client.LastName, new { htmlAttributes = new { @class = "editor-for-JP" } })
+    @Html.ValidationMessageFor(c => c.Client.LastName, "", new { @class = "text-danger" })
+
+</div>
+
+<div class="form-group">
+    @Html.Label("Man")
+    @Html.RadioButtonFor(c => c.Client.Gender, "M")  <!-- M en V zijn de voorkomende waarden in dit veld -->
+    @Html.ValidationMessageFor(c => c.Client.Gender, "", new { @class = "text-danger" })
+
+    <br />
+    @Html.Label("Vrouw")
+    @Html.RadioButtonFor(c => c.Client.Gender, "V")
+    @*@Html.ValidationMessageFor(c => c.Client.Gender, "", new { @class = "text-danger" })*@
+
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(c => c.Client.BirthDate, htmlAttributes: new { @class = "label-for-JP" })
+    @Html.EditorFor(c => c.Client.BirthDate, new { htmlAttributes = new { @class = "editor-for-JP" } })
+    @Html.ValidationMessageFor(c => c.Client.BirthDate, "", new { @class = "text-danger" })
+</div>
+
+<div class="form-group">
+    @Html.Label("Is verzekerd: ")
+    @Html.CheckBoxFor(c => c.Client.IsInsured)
+</div>
+
+<!-- In de ClientVM wordt naast de client ook een lijst van alle landen meegegeven-->
+<!-- zodat je een dropdownlist van landen kan laten zien -->
+<div class="form-group">
+    @Html.Label("Land:")
+    <div class="col-md-10">
+        @Html.DropDownListFor(c => c.Client.CountryId,
+                new SelectList(Model.ListOfCountries, "Id", "CountryDescription"),
+                new { @class = "form-control" })
+    </div>
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(c => c.Client.NickName, htmlAttributes: new { @class = "label-for-JP" })
+    @Html.EditorFor(c => c.Client.NickName, new { htmlAttributes = new { @class = "editor-for-JP" } })
+    @Html.ValidationMessageFor(c => c.Client.NickName, "", new { @class = "text-danger" })
+</div>
+
+<div class="form-group">
+    @Html.LabelFor(c => c.Client.LengthInMeters, htmlAttributes: new { @class = "label-for-JP" })
+    @Html.EditorFor(c => c.Client.LengthInMeters, new { htmlAttributes = new { @class = "editor-for-JP" } })
+    @Html.ValidationMessageFor(c => c.Client.LengthInMeters, "", new { @class = "text-danger" })
+</div>
+
+
+@*<div class="form-group">
+    @Html.LabelFor(c => c.Client.ClientType, htmlAttributes: new { @class = "label-for-JP" })
+        @Html.EditorFor(c => c.Client.ClientType, new { htmlAttributes = new { @class = "editor-for-JP" } })
+     TODO hoe een enum dropdownlist op te zetten? 
+</div>*@
+
+

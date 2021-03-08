@@ -1,0 +1,61 @@
+﻿@model InvoiceMVC.ViewModels.ClientVM
+
+
+<h3>Verwijder klant "@Model.ClientFullName"</h3>
+<partial name="_ClockPartial" for="@Model.KlokVM" />
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.HiddenFor(c => c.Client.Id)
+
+    <fieldset disabled>
+        <legend style="font-style: italic">Details:</legend>
+
+        <div class="form-group">
+            @Html.LabelFor(c => c.Client.ActionCode, htmlAttributes: new { @class = "label-for-JP" })
+            @Html.EditorFor(c => c.Client.ActionCode, new { htmlAttributes = new { @class = "editor-for-JP" } })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(c => c.ClientFullName, htmlAttributes: new { @class = "label-for-JP" })
+            @Html.EditorFor(c => c.ClientFullName, new { htmlAttributes = new { @class = "editor-for-JP" } })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(c => c.Client.ClientNumber, htmlAttributes: new { @class = "label-for-JP" })
+            @Html.EditorFor(c => c.Client.ClientNumber, new { htmlAttributes = new { @class = "editor-for-JP" } })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(c => c.NumberOfInvoices, htmlAttributes: new { @class = "label-for-JP" })
+            @Html.EditorFor(c => c.NumberOfInvoices, new { htmlAttributes = new { @class = "editor-for-JP" } })
+        </div>
+
+        <!-- Als de shared view niet direct onder een standaard View folder staat -->
+        <!-- Bijvoorbeeld "Client" "Invoice" of "Shared" -->
+        <!-- Gebruik dan onderstaande syntax, met of zonder .cshtml extensie  -->
+        <!-- Opmerking: vergeet de subfolder "GedeeldeViewsClient" niet -->
+        <partial name="GedeeldeViewsClient/_ClientFieldsPartial" for="@Model" />
+
+    </fieldset>
+
+    <div>
+        <input type="submit" value="Verwijder" class="redJP" />
+    </div>
+
+    <br />
+    <br />
+    <!-- Maak een back to clienten-lijst knop-->
+    <partial name="GedeeldeViewsClient/_BackToClientIndexView.cshtml" />
+
+    <!-- Maak een back to menu knop, kan met of zonder .cshtml extensie-->
+    <!-- Onderstaande partial wordt automatisch gezocht in de standard view folders: -->
+    <!-- "Client", "Invoice", etc, en "Shared", dus geen foldernaam nodig hieronder-->
+    <br />
+    <br />
+    <partial name="_BackToMainMenuPartial" />
+
+
+}
