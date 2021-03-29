@@ -56,6 +56,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestFactory", "UnitTests\Te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiPeter", "WebApiPeterOrigineel\WebApiPeter.csproj", "{0BBAD771-ABCC-4DEA-9EBB-08793C2CF8A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestWebApiPeter", "UnitTests\Unit Test Web Api Peter\Unit Test Web Api Peter\UnitTestWebApiPeter.csproj", "{C9C0472B-0554-4BBA-BF02-EFFD10F0D36D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - TestWebApiPeter", "02 - TestWebApiPeter", "{D778C77C-A0CE-4C6B-8965-969AC41F7F32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -106,6 +110,10 @@ Global
 		{0BBAD771-ABCC-4DEA-9EBB-08793C2CF8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BBAD771-ABCC-4DEA-9EBB-08793C2CF8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BBAD771-ABCC-4DEA-9EBB-08793C2CF8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C0472B-0554-4BBA-BF02-EFFD10F0D36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C0472B-0554-4BBA-BF02-EFFD10F0D36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C0472B-0554-4BBA-BF02-EFFD10F0D36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C0472B-0554-4BBA-BF02-EFFD10F0D36D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -126,6 +134,8 @@ Global
 		{E4823A5F-6078-404B-A85B-5DF7FAF769F0} = {D61AE6C6-A72C-4FAB-AB38-37952B63D1F0}
 		{37685066-F4D0-4E40-B685-4D1E9392C3E9} = {E4823A5F-6078-404B-A85B-5DF7FAF769F0}
 		{0BBAD771-ABCC-4DEA-9EBB-08793C2CF8A7} = {F0128C77-92DD-40A5-BDB4-9AA648268C7A}
+		{C9C0472B-0554-4BBA-BF02-EFFD10F0D36D} = {D778C77C-A0CE-4C6B-8965-969AC41F7F32}
+		{D778C77C-A0CE-4C6B-8965-969AC41F7F32} = {D61AE6C6-A72C-4FAB-AB38-37952B63D1F0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2143D349-55E7-4043-A5D6-654A7CBF3CE3}

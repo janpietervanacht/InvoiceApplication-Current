@@ -213,6 +213,9 @@ namespace WebApiPeterOrigineel.Controllers
         {
 
             var clt = _clientRepository.GetByClientNumber(clientNumber);
+
+            dummyCalledMethod(); // Voor verify
+
             if (clt == null)
             {
                 return null;
@@ -239,6 +242,11 @@ namespace WebApiPeterOrigineel.Controllers
                 return dtoClientStatistics;
             }
 
+        }
+
+        private void dummyCalledMethod()
+        {
+            var x = 1;
         }
 
         // Kijk naar de Request URL die verschijnt ná aanroep in Swagger (Request URL):
