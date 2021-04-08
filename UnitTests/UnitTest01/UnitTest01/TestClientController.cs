@@ -21,7 +21,7 @@ namespace UnitTest.TestMVCApp
         private readonly Mock<ICountryManager> _countryManager;
         private readonly Mock<ILogger<ClientController>> _logger;
 
-        // _ zelf niet mocken, maar wel naar interface (DI) laten wijzen: 
+        // _ De te testen class: 
         private readonly ClientController _clientController;
 
         public TestClientController()
@@ -46,9 +46,12 @@ namespace UnitTest.TestMVCApp
             Factory1.CreateMockedCountriesClientsInvoices
                 (out List<Country> mockedCountryList, 
                 out List<Client> mockedClientList, 
-                out List<Invoice> mockedInvoiceList); 
+                out List<Invoice> mockedInvoiceList);
 
-            
+            // Je hoeft niet alle methods van de gemockte objecten te setuppen
+            // Als je een method van ee mocked class geen Setup geeft, retourneert de method de DEFAULT waarde
+            // (0 voor int, null voor een object, Jezus's geboortedatum voor een DateTime, etc) 
+
             _clientManager.Setup(x => x.GetAllClientsWithoutInvoices()).Returns(mockedClientList);
             _countryManager.Setup(x => x.GetAll()).Returns(mockedCountryList);
             _invoiceManager.Setup(x => x.CountNrOfInvoices(1)).Returns(100);
@@ -67,6 +70,12 @@ namespace UnitTest.TestMVCApp
             Assert.IsTrue(clientIndexVM.ListOfItems[1].NumberOfInvoices == 200);
             Assert.IsTrue(clientIndexVM.ListOfItems[2].NumberOfInvoices == 3000);
             Assert.AreEqual(40000, clientIndexVM.ListOfItems[3].NumberOfInvoices);
+
+            // AddInvoice() wordt nooit aangeroepen
+            _invoiceManager.Verify(i => i.AddInvoice(It.IsAny<Invoice>()), Times.Exactly(0));
+            // DrieKeerZinloos() wordt 3 keer door _invoiceManager aangeroepen
+
+            _invoiceManager.Verify(i => i.DrieKeerZinloos(It.IsAny<int>()), Times.AtMost(3)); 
 
             // Klant 1 heeft wel een land
             Assert.AreNotEqual(null, clientIndexVM.ListOfItems[0].Client.CountryId);

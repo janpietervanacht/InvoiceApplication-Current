@@ -4,6 +4,7 @@ using InvoiceMVC.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -47,9 +48,17 @@ namespace InvoiceMVC.Controllers
                 KlokVM = new KlokVM()
             };
 
+            for (int i = 0; i < 3; i++)
+            {
+                // ten behoeve van unit test
+                _invoiceManager.DrieKeerZinloos(i); 
+            }
+
             //--------------------------------------- 
             return View(result);
         }
+
+       
 
         public IActionResult Details(int clientId)
         {

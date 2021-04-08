@@ -1,0 +1,5 @@
+﻿Project: WebApiPeter
+-----------------------------------------------------
+Output type: Console Application
+-----------------------------------------------------
+NuGet packages: Swashbuckle.AspNetCore

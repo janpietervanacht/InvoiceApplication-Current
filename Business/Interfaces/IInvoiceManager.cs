@@ -11,5 +11,6 @@ namespace Business.Interfaces
         void DeleteInvoice(int invoiceId);
         List<Invoice> GetAll(int clientId); // Als clientId == 0: alle invoices van alle clienten
         int CountNrOfInvoices(int clientId);
+        void DrieKeerZinloos(int teller); // tbv test Verify
     }
 }

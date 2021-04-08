@@ -34,7 +34,6 @@ namespace UnitTestWebApiPeter
                _logger.Object);
         } 
 
-
         [TestMethod]
         public void TestGetStatistics()
         {
@@ -48,14 +47,16 @@ namespace UnitTestWebApiPeter
             var client4 = mockedClientList[3];   // heeft geen land
 
             _clientRepository.Setup(x => x.GetByClientNumber(It.IsAny<int>())).Returns(client4);
-            _invoiceRepository.Setup(i => i.CountNrOfInvoices(It.IsAny<int>())).Returns(10);
+            // Je hoeft niet alle methods van de gemockte objecten te set uppen
+            // _invoiceRepository.Setup(i => i.CountNrOfInvoices(It.IsAny<int>())).Returns(10);
+            // CountNrOfInvoices() zal de default waarde (0 dus) retourneren
 
             // Act
             var dTOClientStatistics = _clientsController.GetStatisticsByClientNumber(client4.ClientNumber);
 
             // Assert
 
-            Assert.AreEqual(10, dTOClientStatistics.AantalFacturen);
+            Assert.AreEqual(0, dTOClientStatistics.AantalFacturen);
             Assert.AreEqual(21, dTOClientStatistics.AantalLettersAchterNaamKlantZonderSpaties);
 
             Assert.IsTrue(dTOClientStatistics.FactuurNummers[0] == "40000007");
@@ -63,8 +64,10 @@ namespace UnitTestWebApiPeter
 
             // 815,50
             Assert.AreEqual(815.5m, dTOClientStatistics.TotaalFactuurBedrag);
-            _clientRepository.Verify(c => c.GetByClientNumber(client4.ClientNumber), Times.Exactly(2)); 
+            _clientRepository.Verify(c => c.GetByClientNumber(client4.ClientNumber), Times.Exactly(1));
 
+            _invoiceRepository.Verify(i => i.CountNrOfInvoices(client4.Id), Times.Once);
+            _invoiceRepository.Verify(i => i.CountNrOfInvoices(200), Times.Never);
 
 
         }

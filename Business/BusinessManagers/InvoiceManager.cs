@@ -16,6 +16,13 @@ namespace Business.BusinessManagers
             _invoiceRepository = invoiceRepository;
         }
 
+        public void DrieKeerZinloos(int teller)
+        {
+            var zinloos = teller;
+            // Tbv de Verify in unit test
+            // 3 keer aangeroepen in ClientController.Index()
+        }
+
         public void AddInvoice(Invoice invoice)
         {
             throw new NotImplementedException();
