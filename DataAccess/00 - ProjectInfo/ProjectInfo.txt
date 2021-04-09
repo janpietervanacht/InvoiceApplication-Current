@@ -1,0 +1,8 @@
+﻿Project: DataAccess
+
+Output type: Class Library
+
+NuGet Packages: 
+Microsoft.AspNetCore.Identity.EntityFrameworkCore
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
