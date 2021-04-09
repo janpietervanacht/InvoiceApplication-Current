@@ -52,7 +52,7 @@ namespace WebApplication
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "My Web API", Version = "v1" });
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Web Api volgens ABF", Version = "v1" });
                 // c.DescribeAllEnumsAsStrings();  obsolete
                 c.CustomSchemaIds(x => x.FullName);
             });
@@ -86,7 +86,7 @@ namespace WebApplication
             app.UseSwaggerUI(c =>
             {
                 c.RoutePrefix = "swagger";
-                c.SwaggerEndpoint("v1/swagger.json", "Web Api Peter");
+                c.SwaggerEndpoint("v1/swagger.json", "Web Api volgens ABF");
 
                 //c.SwaggerEndpoint("/swagger/v1/swagger.json", "Web Api Peter Origineel");
                 //c.RoutePrefix = string.Empty;
