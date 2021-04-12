@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DataAccess.ApplicDbContext
 {
+    // Best practice: NOEM DEZE CLASS NIET: DbContext
+    // Want één van de gebruikte entity framework componenten gebruikt deze naam ook
     public class DatabaseContext : IdentityDbContext
     // ApplicationDbContext  / DbSet: gebruiken als je tabellen vanuit de code
     // creëert (CODE FIRST, goed bij intake). Let op: Database wel eerst

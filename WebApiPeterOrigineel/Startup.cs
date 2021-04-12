@@ -1,3 +1,4 @@
+using DataAccess.ApplicDbContext;
 using DataAccess.Interfaces;
 using DataAccess.Repositories;
 using Microsoft.AspNetCore.Builder;
@@ -24,7 +25,7 @@ namespace WebApplication
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddDbContext<DataAccess.ApplicDbContext.DatabaseContext>(options =>
+            services.AddDbContext<DatabaseContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")), ServiceLifetime.Scoped);
 
