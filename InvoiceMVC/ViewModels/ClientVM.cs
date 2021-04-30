@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace InvoiceMVC.ViewModels
 {
-    public class ClientVM   // Niet: ClientDetailsVM noemen
+    public class ClientVM   // SVP Niet: ClientDetailsVM noemen
                             // Want er is een shared view voor Details/Add/Update/Delete
     {
         public Client Client { get; set; }

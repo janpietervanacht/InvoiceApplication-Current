@@ -10,3 +10,15 @@ C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\Te
 C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.csproj.CopyComplete
 C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.dll
 C:\Users\janpi\source\repos\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.pdb
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\bin\Debug\netcoreapp3.1\TestFactory.deps.json
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\bin\Debug\netcoreapp3.1\TestFactory.dll
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\bin\Debug\netcoreapp3.1\TestFactory.pdb
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\bin\Debug\netcoreapp3.1\Model.dll
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\bin\Debug\netcoreapp3.1\Model.pdb
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.csprojAssemblyReference.cache
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.AssemblyInfoInputs.cache
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.AssemblyInfo.cs
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.csproj.CoreCompileInputs.cache
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.csproj.CopyComplete
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.dll
+D:\Users\janpi\repos-d\@Invoice App\InvoiceApplication Current\UnitTests\TestFactory\TestFactory\obj\Debug\netcoreapp3.1\TestFactory.pdb
