@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vvoe77lIaF9uPYEWxh9JCCFQDq9flkezEzxOMo1jCbVQ6zMvtpk54U1oo/k8/FsR3q+71u+aZHi5dSMFUA6bMA==",
+  "dgSpecHash": "Qu/90NWS82hobmoCCVMwicUh38rwme1A0173oC2fSkkCeph+LHjbkY7z35yjAL6a4ezlML91DXm6/FumhA2uzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\UnitTests\\UnitTest01\\UnitTest01\\TestMVCApp.csproj",
+  "projectFilePath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\UnitTests\\UnitTest01\\UnitTest01\\TestMVCApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janpi\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\janpi\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

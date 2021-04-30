@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "imvkTkfHIXBatf2G1PmP0EQEwPtWlKVLTAGUtQ7u5ouuW8GopCEjfRmb0vZUkZFtMnu/jxcfW1Qhgk39hpJNKg==",
+  "dgSpecHash": "5Rrw1wOORx01rh5aK9QucrNKFImr/2gc/UjhPW3zZN/6w1sEjFiRO5rrc8XL/G+ZaO+LNLR6kISFHtR7L2od2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\WebAPIUpdateClient\\WebAPIUpdateClient\\WebAPIForClient.csproj",
+  "projectFilePath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\WebAPIUpdateClient\\WebAPIUpdateClient\\WebAPIForClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janpi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\janpi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",

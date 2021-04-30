@@ -6202,11 +6202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\OutgoingClients\\OutgoingClients\\OutgoingExports.csproj",
+      "projectUniqueName": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\OutgoingClients\\OutgoingClients\\OutgoingExports.csproj",
       "projectName": "OutgoingExports",
-      "projectPath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\OutgoingClients\\OutgoingClients\\OutgoingExports.csproj",
+      "projectPath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\OutgoingClients\\OutgoingClients\\OutgoingExports.csproj",
       "packagesPath": "C:\\Users\\janpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\OutgoingClients\\OutgoingClients\\obj\\",
+      "outputPath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\OutgoingClients\\OutgoingClients\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6225,11 +6225,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\DataAccess\\DataAccess.csproj"
+            "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\Model\\Model.csproj"
+            "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\Model\\Model.csproj": {
+              "projectPath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\Model\\Model.csproj"
             }
           }
         }
@@ -6275,7 +6275,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

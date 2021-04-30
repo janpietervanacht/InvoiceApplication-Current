@@ -10352,11 +10352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\UnitTests\\UnitTest01\\UnitTest01\\TestMVCApp.csproj",
+      "projectUniqueName": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\UnitTests\\UnitTest01\\UnitTest01\\TestMVCApp.csproj",
       "projectName": "TestMVCApp",
-      "projectPath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\UnitTests\\UnitTest01\\UnitTest01\\TestMVCApp.csproj",
+      "projectPath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\UnitTests\\UnitTest01\\UnitTest01\\TestMVCApp.csproj",
       "packagesPath": "C:\\Users\\janpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\UnitTests\\UnitTest01\\UnitTest01\\obj\\",
+      "outputPath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\UnitTests\\UnitTest01\\UnitTest01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10375,14 +10375,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\Business\\Business.csproj"
+            "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\Business\\Business.csproj": {
+              "projectPath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\Business\\Business.csproj"
             },
-            "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\InvoiceMVC\\InvoiceMVC.csproj": {
-              "projectPath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\InvoiceMVC\\InvoiceMVC.csproj"
+            "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\InvoiceMVC\\InvoiceMVC.csproj": {
+              "projectPath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\InvoiceMVC\\InvoiceMVC.csproj"
             },
-            "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\UnitTests\\TestFactory\\TestFactory\\TestFactory.csproj": {
-              "projectPath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\UnitTests\\TestFactory\\TestFactory\\TestFactory.csproj"
+            "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\UnitTests\\TestFactory\\TestFactory\\TestFactory.csproj": {
+              "projectPath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\UnitTests\\TestFactory\\TestFactory\\TestFactory.csproj"
             }
           }
         }
@@ -10435,7 +10435,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

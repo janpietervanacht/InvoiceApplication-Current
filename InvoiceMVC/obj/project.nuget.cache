@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZMbwzXOxSQmn9q5zvfKjegfTUZLFNHhByUv8Yf7zJltqKUsJS4ntzSYJjTKzvIVVcsoLWBpYh/wRfLu+WVeVAQ==",
+  "dgSpecHash": "rFHvXY8Iw9CbQiUoEeMcY37FCSOAGaDXxO44XuOgCBjtx5TSTNzkZabUgJ6bsFC+euocLLJM3qBM/13cjTYNQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\janpi\\source\\repos\\@Invoice App\\InvoiceApplication Current\\InvoiceMVC\\InvoiceMVC.csproj",
+  "projectFilePath": "D:\\Users\\janpi\\repos-d\\@Invoice App\\InvoiceApplication Current\\InvoiceMVC\\InvoiceMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janpi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
     "C:\\Users\\janpi\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.8\\microsoft.aspnetcore.cryptography.keyderivation.3.1.8.nupkg.sha512",
